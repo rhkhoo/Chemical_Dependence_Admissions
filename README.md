@@ -12,7 +12,7 @@ To see some interesting visualizations, check out my [Tableau](https://public.ta
 
 Putnam, Schedectady, New York, Sullivan, and Albany county have the highest overall admissions proportional to county population. New York County is the wealthiest county, followed by Putnam (4th overall), Albany (10th), Schenectady (17th), and Sullivan (36th) based on [per capita income]('https://en.wikipedia.org/wiki/List_of_New_York_locations_by_per_capita_income'). Since 2007, the number of admissions compared to Putnam's population has nearly doubled.
 
-![Line graph showing how admissions per substance have changed](https://github.com/rhkhoo/Chemical_Dependence_Admissions/blob/main/Images/ads by substance.PNG)
+![Line graph showing how admissions per substance have changed](https://github.com/rhkhoo/Chemical_Dependence_Admissions/blob/main/Images/ads-by-substance.PNG)
 
 There has been a decrease in admissions due to alcohol, though there was a slight uptick from 2017 to 2018. Admissions due to marijuana have decreased, possibly due to the drug's increasing legalization. Heroin experienced the greatest increase of all other substances, particularly starting in 2012. In 2011, a [new commissioner](https://oasas.ny.gov/commissioner-biography) of the OASAS was appointed, and some changes that occured in subsequent years could be attributed to programs she instituted. The Statewide Task Force to Combat Heroin and the Prescription Opioid Crisis was established 2016, and the number of admissions due to heroin and other opioids did decrease, suggesting this program is effective.  
 
@@ -29,6 +29,6 @@ Using Facebook's Prophet, I predicted the number of admissions for the next eigh
 
 Overall admissions are expected to decline over the next decade, with periodic spikes that may follow changes in the economy. However, admissions for people between the ages of 25 to 34 are expected to increase, primarily due to heroin and other opiods. People under age 25 are expected to be admitted much less frequently, possibly because of the effectiveness of OASAS's prevention programs. People over 55 are expected to be admitted more for every substance. These patients may be life-long users, so changing this trend may prove difficult. 
 
-![Line graph showing how admissions per substance have changed](https://github.com/rhkhoo/Chemical_Dependence_Admissions/blob/main/Images/young heroin.PNG)
+![Line graph showing how admissions per substance have changed](https://github.com/rhkhoo/Chemical_Dependence_Admissions/blob/main/Images/young-heroin.PNG)
 
 It is encouraging to see that overall, admissions for chemical dependence are on the decline. OASAS may want to target older patients and young opioid addicts to address the predicted increase in admissions. 
